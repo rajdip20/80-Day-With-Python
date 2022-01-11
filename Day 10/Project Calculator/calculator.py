@@ -46,7 +46,7 @@ def calculator():
         else:
             should_continue = False
             clear()
-            calculator()
+
 
 
 calculator()
