@@ -58,3 +58,6 @@ It's all about how to find the Bug and how to fix it.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2015">Day 15</a>: Today I spend building a
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2015">Coffee Machine Code</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2016">Day 16</a>: Today I learned about Object-Oriented Programming(OOP) and remake 
+yesterday's project using OOP. By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2016/Coffee%20Machine">Coffee Machine</a>
+using the concept of OOP.<br>
