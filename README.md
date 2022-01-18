@@ -61,3 +61,7 @@ It's all about how to find the Bug and how to fix it.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2016">Day 16</a>: Today I learned about Object-Oriented Programming(OOP) and remake 
 yesterday's project using OOP. By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2016/Coffee%20Machine">Coffee Machine</a>
 using the concept of OOP.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017">Day 17</a>: Today I learned about how to create Class in OOP. 
+By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017/Quiz%20Game">Quiz Game</a>
+using the concept of Class and OOP.<br>
