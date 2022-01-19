@@ -65,3 +65,8 @@ using the concept of OOP.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017">Day 17</a>: Today I learned about how to create Class in OOP. 
 By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017/Quiz%20Game">Quiz Game</a>
 using the concept of Class and OOP.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2018">Day 18</a>: Today I learned about Turtle Graphics, Tuples and Importing Modules. 
+By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2018/Hirst%20Painting%20Project">Hirst Dot Painting</a>
+project using Turtle Graphics.<br>
+
