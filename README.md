@@ -70,3 +70,7 @@ using the concept of Class and OOP.<br>
 By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2018/Hirst%20Painting%20Project">Hirst Dot Painting</a>
 project using Turtle Graphics.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2019">Day 19</a>: Today I learned more about Turtle Graphics, Event Listeners, State and Multiple Instances. 
+By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2019/Turtle%20Race%20Game">Turtle Race Game</a>
+project.<br>
+
