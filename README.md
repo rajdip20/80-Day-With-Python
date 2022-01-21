@@ -1,6 +1,7 @@
 # 100-Day-With-Python
 100 Days of Code - The Complete Python Pro Bootcamp for 2022.<br>
-In this course, I spend with python language over 100 days, and I update this README file with what I learned on day-to-day basis.<br><br>
+In this course, I spend with python language over 100 days, and I update this README file with what I learned on day-to-day basis.
+Please give a star if you like it.<br><br>
 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%201">Day 1</a>: Today I learned about Printing, Commenting,
 Debugging, String Manipulation, and Variables. By the end of today, I created <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%201/Band%20Name%20Generator.py">Band Name Generator</a>
@@ -73,4 +74,8 @@ project using Turtle Graphics.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2019">Day 19</a>: Today I learned more about Turtle Graphics, Event Listeners, State and Multiple Instances. 
 By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2019/Turtle%20Race%20Game">Turtle Race Game</a>
 project.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2020">Day 20</a>: Today I spend building a famous game
+called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2020/Snake%20Game">Snake Game</a>. Using the concept of
+OOP, Turtle Graphics and lots of other things.
 
