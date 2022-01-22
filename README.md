@@ -75,7 +75,11 @@ project using Turtle Graphics.<br>
 By the end of today, I created a code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2019/Turtle%20Race%20Game">Turtle Race Game</a>
 project.<br>
 
-<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2020">Day 20</a>: Today I spend building a famous game
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2020">Day 20</a>: Today and the next day I spend building a famous game
 called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2020/Snake%20Game">Snake Game</a>. Using the concept of
-OOP, Turtle Graphics and lots of other things.
+OOP, Turtle Graphics and lots of other things. Today I make the snake, screen, and the snake moves.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2021">Day 21</a>: Today I learned about Inheritance, Slicing. 
+By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2021/Snake%20Game">Snake Game</a>
+project, and today I wrote the code for Detect collision with food, wall, tail, and create a scoreboard.<br>
 
