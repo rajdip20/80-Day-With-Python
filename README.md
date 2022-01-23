@@ -83,3 +83,6 @@ OOP, Turtle Graphics and lots of other things. Today I make the snake, screen, a
 By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2021/Snake%20Game">Snake Game</a>
 project, and today I wrote the code for Detect collision with food, wall, tail, and create a scoreboard.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2022">Day 22</a>: Today I spend building a famous game called
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2022/Pong%20Game">Pong Game</a>, using the skills I have learned up till now.<br>
+
