@@ -86,3 +86,6 @@ project, and today I wrote the code for Detect collision with food, wall, tail, 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2022">Day 22</a>: Today I spend building a famous game called
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2022/Pong%20Game">Pong Game</a>, using the skills I have learned up till now.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2023">Day 23</a>: Today I spend building a game called
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2023/Turtle%20Crossing%20Game">Turtle Crossing Game</a>.<br>
+
