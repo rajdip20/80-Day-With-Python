@@ -89,3 +89,8 @@ project, and today I wrote the code for Detect collision with food, wall, tail, 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2023">Day 23</a>: Today I spend building a game called
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2023/Turtle%20Crossing%20Game">Turtle Crossing Game</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2024">Day 24</a>: Today I learned about how to work with Local Files and Directories. 
+By the end of today, I improve the <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2024/Snake%20Game">Snake Game</a>
+project, and build one more project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2024/Mail%20Merge%20Project">Mail Merge</a>
+Project.<br>
+
