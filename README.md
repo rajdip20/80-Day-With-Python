@@ -94,3 +94,7 @@ By the end of today, I improve the <a href="https://github.com/rajdip20/100-Day-
 project, and build one more project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2024/Mail%20Merge%20Project">Mail Merge</a>
 Project.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2025">Day 25</a>: Today I learned about work with CSV files and Analysing Data with Pandas. 
+By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2025/US%20States%20Game">U.S. State Game</a>
+project, which will help to remember the 50 states name of U.S.<br>
+
