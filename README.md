@@ -102,3 +102,7 @@ project, which will help to remember the 50 states name of U.S.<br>
 By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2026/NATO%20alphabet%20project">NATO Phonetic Alphabet</a>
 project.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2027">Day 27</a>: Today I learned about Graphical User Interface(GUI) using Tkinter and Function Arguments. 
+By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2027/Mile%20to%20Km%20Converter">Mile to Km Converter</a>
+project using Tkinter module.<br>
+
