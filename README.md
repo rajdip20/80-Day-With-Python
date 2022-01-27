@@ -98,3 +98,7 @@ Project.<br>
 By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2025/US%20States%20Game">U.S. State Game</a>
 project, which will help to remember the 50 states name of U.S.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2026">Day 26</a>: Today I learned about List and Dictionary Comprehensions. 
+By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2026/NATO%20alphabet%20project">NATO Phonetic Alphabet</a>
+project.<br>
+
