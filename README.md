@@ -106,3 +106,7 @@ project.<br>
 By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2027/Mile%20to%20Km%20Converter">Mile to Km Converter</a>
 project using Tkinter module.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2028">Day 28</a>: Today I learned about Dynamic Typing. 
+By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2028/Pomodoro%20Project">Pomodoro App</a>
+project using Tkinter module.<br>
+
