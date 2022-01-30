@@ -110,3 +110,7 @@ project using Tkinter module.<br>
 By the end of today, I finished the code for <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2028/Pomodoro%20Project">Pomodoro App</a>
 project using Tkinter module.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2029">Day 29</a>: Today I spend to update a project of <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%205">Day 5</a> 
+called <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%205/Password%20Generator.py">Password Generator</a>, using Tkinter and File Handling concept.
+The project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2029/Password%20Manager%20Project">Password Manager Project</a>.<br>
+
