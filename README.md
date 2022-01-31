@@ -114,3 +114,8 @@ project using Tkinter module.<br>
 called <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%205/Password%20Generator.py">Password Generator</a>, using Tkinter and File Handling concept.
 The project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2029/Password%20Manager%20Project">Password Manager Project</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2030">Day 30</a>: Today I learned about Errors, Exceptions and Saving JSON Data. 
+By the end of today, I update the <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2029/Password%20Manager%20Project">Password Manager Project</a>'s TXT file to JSON file, the project name is
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2030/Password%20Manager%20Update%20Project">Password Manager Update Project</a>, 
+and also Handel some exceptions to <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2030/Exception%20Handling%20NATO%20Alphabet%20Project">NATO Alphabet Project</a>.<br>
+
