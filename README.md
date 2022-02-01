@@ -119,3 +119,6 @@ By the end of today, I update the <a href="https://github.com/rajdip20/100-Day-W
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2030/Password%20Manager%20Update%20Project">Password Manager Update Project</a>, 
 and also Handel some exceptions to <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2030/Exception%20Handling%20NATO%20Alphabet%20Project">NATO Alphabet Project</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2031">Day 31</a>: Today I spend building a Project called
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2031/Flash%20Card%20App">Flash Card App</a> using what I learned previous Days.<br>
+
