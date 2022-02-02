@@ -122,3 +122,7 @@ and also Handel some exceptions to <a href="https://github.com/rajdip20/100-Day-
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2031">Day 31</a>: Today I spend building a Project called
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2031/Flash%20Card%20App">Flash Card App</a> using what I learned previous Days.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2032">Day 32</a>: Today I learned about Email SMTP and datetime module. 
+By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2032/Motivational%20Quotes%20Sender">Motivational Quotes Sender</a>
+and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2032/Automated%20Birthday%20Wisher">Automated Birthday Wisher</a> using what I learned today.<br>
+
