@@ -126,3 +126,7 @@ and also Handel some exceptions to <a href="https://github.com/rajdip20/100-Day-
 By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2032/Motivational%20Quotes%20Sender">Motivational Quotes Sender</a>
 and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2032/Automated%20Birthday%20Wisher">Automated Birthday Wisher</a> using what I learned today.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2033">Day 33</a>: Today I learned about Application Programming Interfaces(API). 
+By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2033/Challenge%20Kanye%20Quotes">Kanye Quotes</a> app
+and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2033/ISS%20OverHead">ISS Overhead</a> project using what I learned today.<br>
+
