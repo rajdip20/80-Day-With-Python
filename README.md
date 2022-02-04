@@ -130,3 +130,7 @@ and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%20
 By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2033/Challenge%20Kanye%20Quotes">Kanye Quotes</a> app
 and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2033/ISS%20OverHead">ISS Overhead</a> project using what I learned today.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2034">Day 34</a>: Today I spend to update a project of <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017">Day 17</a> 
+called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017/Quiz%20Game">Quiz Game</a>, using Trivia API and Tkinter concept.
+The project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2034/Quizzler%20App">Quizzler App</a>.<br>
+
