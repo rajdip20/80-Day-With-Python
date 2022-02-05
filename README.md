@@ -134,3 +134,7 @@ and an <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%20
 called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2017/Quiz%20Game">Quiz Game</a>, using Trivia API and Tkinter concept.
 The project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2034/Quizzler%20App">Quizzler App</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2035">Day 35</a>: Today I learned about API Keys, Authentication, Environment Variables and Sending SMS. 
+By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2035/Rain%20Alert">Rain Alert</a> 
+project using what I learned today.<br>
+
