@@ -138,3 +138,7 @@ The project called <a href="https://github.com/rajdip20/100-Day-With-Python/tree
 By the end of today, I make a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2035/Rain%20Alert">Rain Alert</a> 
 project using what I learned today.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2036">Day 36</a>: Today I spend building a Project called 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2036/Stock%20News%20App">Stock News Monitoring</a> 
+project what I learned previous Days.<br>
+
