@@ -146,3 +146,7 @@ project using what I learned previous Days.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2037/Habit%20Tracker">Habit Tracker</a> 
 project using what I learned previous Days.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2038">Day 38</a>: Today I spend building a Project called 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2038/Exercise%20Traking">Exercise Tracking</a> 
+project using what I learned previous Days. I also attached the output demo in PDF format.<br>
+
