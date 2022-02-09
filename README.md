@@ -150,3 +150,7 @@ project using what I learned previous Days.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2038/Exercise%20Traking">Exercise Tracking</a> 
 project using what I learned previous Days. I also attached the output demo in PDF format.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2039">Day 39</a>: Today I spend building a Project called 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2039/Flight%20Deals">Cheap Flight Finder</a> 
+project using what I learned previous Days. It's the part 1 of total project and in this part my program find the cheap flight deals.<br>
+
