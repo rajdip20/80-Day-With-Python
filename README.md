@@ -154,3 +154,7 @@ project using what I learned previous Days. I also attached the output demo in P
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2039/Flight%20Deals">Cheap Flight Finder</a> 
 project using what I learned previous Days. It's the part 1 of total project and in this part my program find the cheap flight deals.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2040">Day 40</a>: Today I spend finishing the Project of previous day, called 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2040/Flight%20Deals">The Flight Club</a> 
+project using what I learned previous Days.<br>
+
