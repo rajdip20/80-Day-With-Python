@@ -158,3 +158,7 @@ project using what I learned previous Days. It's the part 1 of total project and
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2040/Flight%20Deals">The Flight Club</a> 
 project using what I learned previous Days.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2041">Day 41</a>: Today I learned about Creating Website with HTML for increase the knowledge about website for web scraping. 
+By the end of today, I make a part of basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2041/HTML%20-%20Personal%20Site">Personal Website</a>
+using HTML.<br>
+
