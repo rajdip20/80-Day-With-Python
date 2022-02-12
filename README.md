@@ -162,3 +162,7 @@ project using what I learned previous Days.<br>
 By the end of today, I make a part of basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2041/HTML%20-%20Personal%20Site">Personal Website</a>
 using HTML.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2042">Day 42</a>: Today I learned about more about HTML like Forms and Tables in HTML. 
+By the end of today, I make another part of basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2042/HTML%20-%20Personal%20Site">Personal Website</a>
+and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2042/HTML%20Challenge/index.html">Challenge</a> using HTML.<br>
+
