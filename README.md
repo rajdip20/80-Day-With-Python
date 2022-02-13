@@ -166,3 +166,7 @@ using HTML.<br>
 By the end of today, I make another part of basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2042/HTML%20-%20Personal%20Site">Personal Website</a>
 and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2042/HTML%20Challenge/index.html">Challenge</a> using HTML.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2043">Day 43</a>: Today I learned about Styling website with CSS. 
+By the end of today, I add some style in my basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2043/HTML%20-%20Personal%20Site">Personal Website</a>
+and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2043/CSS%20-%20Bacon%20Fansite">Challenge</a> using HTML and also CSS.<br>
+
