@@ -170,3 +170,7 @@ and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/blob/m
 By the end of today, I add some style in my basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2043/HTML%20-%20Personal%20Site">Personal Website</a>
 and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2043/CSS%20-%20Bacon%20Fansite">Challenge</a> using HTML and also CSS.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2044">Day 44</a>: Today I learned more about CSS. 
+By the end of today, I completed my basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2044/CSS%20-%20My%20Site">Personal Website</a>
+using HTML and CSS.<br>
+
