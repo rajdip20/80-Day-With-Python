@@ -174,3 +174,7 @@ and also solve a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/m
 By the end of today, I completed my basic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2044/CSS%20-%20My%20Site">Personal Website</a>
 using HTML and CSS.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2045">Day 45</a>: Today I learned about Scraping the Web with BeautifulSoup. 
+By the end of today, I scrap <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2045/100%20movies%20to%20watch">100 greatest movies name</a>
+using BeautifulSoup.<br>
+
