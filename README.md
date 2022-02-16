@@ -178,3 +178,7 @@ using HTML and CSS.<br>
 By the end of today, I scrap <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2045/100%20movies%20to%20watch">100 greatest movies name</a>
 using BeautifulSoup.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2046">Day 46</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2046/Musical%20Time%20Machine">Musical Time Machine</a>
+Project using BeautifulSoup.<br>
+
