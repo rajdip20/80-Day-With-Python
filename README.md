@@ -182,3 +182,7 @@ using BeautifulSoup.<br>
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2046/Musical%20Time%20Machine">Musical Time Machine</a>
 Project using BeautifulSoup.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2047">Day 47</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2047/Amazon%20Price%20Tracker">Amazon Price Tracker</a>
+Project using BeautifulSoup.<br>
+
