@@ -192,3 +192,6 @@ which click the cookie, and also solve some small challenges like <a href="https
 <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2048/Challenge/interaction.py">Interaction</a>,
 <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2048/Challenge/main.py">Python Events</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2049">Day 49</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2049/Autometed%20Job%20Application">Autometed Job Application</a>
+Project using Selenium Webdriver, which applied for a job role in LinkedIn.<br>
