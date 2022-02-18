@@ -186,3 +186,9 @@ Project using BeautifulSoup.<br>
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2047/Amazon%20Price%20Tracker">Amazon Price Tracker</a>
 Project using BeautifulSoup.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2048">Day 48</a>: Today I learned about Selenium Webdriver for advance Web Scraping. 
+By the end of today, I make automatic <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2048/Cookie%20Clicker">Cookie Clicker</a>
+which click the cookie, and also solve some small challenges like <a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2048/Challenge/autosignup.py">Auto Sign Up</a>,
+<a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2048/Challenge/interaction.py">Interaction</a>,
+<a href="https://github.com/rajdip20/100-Day-With-Python/blob/main/Day%2048/Challenge/main.py">Python Events</a>.<br>
+
