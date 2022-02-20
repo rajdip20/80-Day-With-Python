@@ -195,3 +195,8 @@ which click the cookie, and also solve some small challenges like <a href="https
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2049">Day 49</a>: Today I apply all the things which I learned previous Days.
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2049/Autometed%20Job%20Application">Autometed Job Application</a>
 Project using Selenium Webdriver, which applied for a job role in LinkedIn.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2050">Day 50</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2050/Automate%20Tinder%20Swaping">Autometed Tinder Swapping</a>
+Project using Selenium Webdriver.<br>
+
