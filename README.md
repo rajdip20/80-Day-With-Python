@@ -204,3 +204,7 @@ Project using Selenium Webdriver.<br>
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2051/Twitter%20Complain%20Bot">Autometed Twitter Complain Bot</a>
 Project using Selenium Webdriver.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2052">Day 52</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2052/Instagram%20Follower%20Bot">Autometed Instagram Follower Bot</a>
+Project using Selenium Webdriver, which send follow request.<br>
+
