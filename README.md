@@ -208,3 +208,7 @@ Project using Selenium Webdriver.<br>
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2052/Instagram%20Follower%20Bot">Autometed Instagram Follower Bot</a>
 Project using Selenium Webdriver, which send follow request.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2053">Day 53</a>: Today I apply all the things which I learned previous Days.
+Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2053/Data%20Entry%20Job%20Automation">Data Entry Job Automation</a>
+Project using Selenium Webdriver and BeautifulSoup.<br>
+
