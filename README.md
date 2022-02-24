@@ -1,5 +1,5 @@
-# 100-Day-With-Python
-100 Days of Code - The Complete Python Pro Bootcamp for 2022.<br>
+# 80-Day-With-Python
+80 Days of Code - The Complete Python Pro Bootcamp for 2022.<br>
 In this course, I spend with python language over 100 days, and I update this README file with what I learned on day-to-day basis.
 Please give a star if you like it.<br><br>
 
