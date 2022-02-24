@@ -212,3 +212,6 @@ Project using Selenium Webdriver, which send follow request.<br>
 Today I create a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2053/Data%20Entry%20Job%20Automation">Data Entry Job Automation</a>
 Project using Selenium Webdriver and BeautifulSoup.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2054">Day 54</a>: Today I learned about Command Line, Python Decorators and Web Development with Flask. 
+By the end of today, I completed a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2054/Exercise">Exercise</a>.<br>
+
