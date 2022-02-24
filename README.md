@@ -1,6 +1,6 @@
 # 80-Day-With-Python
 80 Days of Code - The Complete Python Pro Bootcamp for 2022.<br>
-In this course, I spend with python language over 100 days, and I update this README file with what I learned on day-to-day basis.
+In this course, I spend with python language over 80 days, and I update this README file with what I learned on day-to-day basis.
 Please give a star if you like it.<br><br>
 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%201">Day 1</a>: Today I learned about Printing, Commenting,
