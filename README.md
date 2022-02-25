@@ -218,3 +218,7 @@ By the end of today, I completed a <a href="https://github.com/rajdip20/100-Day-
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2055">Day 55</a>: Today I learned about Advanced Decorators, Rendering HTML, Parsing URLs and Flask Debugging. 
 By the end of today, I completed a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2055/Higher%20or%20Lower%20Game">Higher Lower Game</a> using Flask.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2056">Day 56</a>: Today I learned about Static files, HTML/CSS File Rendering and a Personal Site. 
+By the end of today, I update <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2056/My%20Personal%20Site">My Personal Website</a> and also make a 
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2056/My%20Name%20Card">Name Card</a> using Flask.<br>
+
