@@ -215,3 +215,6 @@ Project using Selenium Webdriver and BeautifulSoup.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2054">Day 54</a>: Today I learned about Command Line, Python Decorators and Web Development with Flask. 
 By the end of today, I completed a <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2054/Exercise">Exercise</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2055">Day 55</a>: Today I learned about Advanced Decorators, Rendering HTML, Parsing URLs and Flask Debugging. 
+By the end of today, I completed a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2055/Higher%20or%20Lower%20Game">Higher Lower Game</a> using Flask.<br>
+
