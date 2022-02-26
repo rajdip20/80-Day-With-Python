@@ -222,3 +222,7 @@ By the end of today, I completed a <a href="https://github.com/rajdip20/80-Day-W
 By the end of today, I update <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2056/My%20Personal%20Site">My Personal Website</a> and also make a 
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2056/My%20Name%20Card">Name Card</a> using Flask.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2057">Day 57</a>: Today I learned about URL Building and Templating with Jinja in my Flask Application. 
+By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2057/Blog%20Templating">Blog Template</a> and also do a 
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2057/Exercise">Exercise</a> using Flask and request module.<br>
+
