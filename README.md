@@ -226,3 +226,7 @@ By the end of today, I update <a href="https://github.com/rajdip20/80-Day-With-P
 By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2057/Blog%20Templating">Blog Template</a> and also do a 
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2057/Exercise">Exercise</a> using Flask and request module.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2058">Day 58</a>: Today I learned about Bootstrap. 
+By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2058/TinDog%20Completed%20Website">TinDog Website</a> 
+using Bootstrap.<br>
+
