@@ -230,3 +230,6 @@ By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-P
 By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2058/TinDog%20Completed%20Website">TinDog Website</a> 
 using Bootstrap.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2059">Day 59</a>: Today I create a WebSite using Bootstrap, Flask and requests module called,
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2059/Blog%20Templating">Blog Templating</a>.<br>
+
