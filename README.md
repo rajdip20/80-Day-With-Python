@@ -237,3 +237,7 @@ using Bootstrap.<br>
 I update the contact me form and connect it with SMTP so that the form works and the project name is
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2060/Blog%20Templating">Blog Templating</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2061">Day 61</a>: Today I learn about a Flask extension called Flask-WTF. 
+By the end of today, I make a <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2061/flask-secrets">Flask-Secrete</a>
+which keep a secret message, using what I learn today.<br>
+
