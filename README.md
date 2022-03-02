@@ -233,3 +233,7 @@ using Bootstrap.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2059">Day 59</a>: Today I create a WebSite using Bootstrap, Flask and requests module called,
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2059/Blog%20Templating">Blog Templating</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2060">Day 60</a>: Today I update the previous days WebSite. 
+I update the contact me form and connect it with SMTP so that the form works and the project name is
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2060/Blog%20Templating">Blog Templating</a>.<br>
+
