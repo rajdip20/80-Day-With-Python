@@ -250,3 +250,7 @@ which keep a secret message, using what I learn today.<br>
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2064">Day 64</a>: Today I create a WebSite using what I learn till now called,
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2064/My%20Top%2010%20Movies%20Website">My Top 10 Movies WebSite</a> that can store top 10 movies name that I watched.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2065">Day 65</a>: Today I learn about how to design WebSite and learn about four pillar of Web Design,
+Color Theory, Typography, User Interface Design, and User Experience Design. By the end of today, I make a Boiler WebSite using the concept of the four pillar called,
+<a href="https://www.canva.com/design/DAE6R6JJDFI/e8QbOmOhAfIHszHb0hYCuQ/view?website">THE HOTEL</a> with the help of Canva.<br>
+
