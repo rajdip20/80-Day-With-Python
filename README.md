@@ -254,3 +254,6 @@ which keep a secret message, using what I learn today.<br>
 Color Theory, Typography, User Interface Design, and User Experience Design. By the end of today, I make a Boiler WebSite using the concept of the four pillar called,
 <a href="https://www.canva.com/design/DAE6R6JJDFI/e8QbOmOhAfIHszHb0hYCuQ/view?website">THE HOTEL</a> with the help of Canva.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2066">Day 66</a>: Today I learn about Building a full REST API from scratch using Flask, and make a project called,
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2066/cafe%20api">Cafe API</a>.<br>
+
