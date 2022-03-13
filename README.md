@@ -257,3 +257,6 @@ Color Theory, Typography, User Interface Design, and User Experience Design. By 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2066">Day 66</a>: Today I learn about Building a full REST API from scratch using Flask, and make a project called,
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2066/cafe%20api">Cafe API</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2067">Day 67</a>: Today I'm going to take my blog website even further.In this website I add more HTTP routes so that I can create new blog posts, edit posts and delete posts. The project called,
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2067/RESTful%20blog">RESTful Blog</a>.<br>
+
