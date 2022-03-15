@@ -263,3 +263,6 @@ Color Theory, Typography, User Interface Design, and User Experience Design. By 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2068">Day 68</a>: Today I learn about Flask Authentication and make a basic WebSite. The project called,
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2068/flask%20auth">Flask Auth</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2069">Day 69</a>: Today I'm going to take my blog website even further.In this website I add Authentication so that user can log in this blog website. The project called,
+<a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2069/Blog">Blog Website</a>.<br>
+
