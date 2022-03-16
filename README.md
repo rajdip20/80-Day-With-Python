@@ -266,3 +266,6 @@ Color Theory, Typography, User Interface Design, and User Experience Design. By 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2069">Day 69</a>: Today I'm going to take my blog website even further.In this website I add Authentication so that user can log in this blog website. The project called,
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2069/Blog">Blog Website</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2070">Day 70</a>: Today I learn about how to Publish Our Flask Website and also Version 
+Control in Git, upgrade the Database using SQLite. After all of this I learn how to publish my website using Heroku.
+
