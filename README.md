@@ -267,5 +267,8 @@ Color Theory, Typography, User Interface Design, and User Experience Design. By 
 <a href="https://github.com/rajdip20/80-Day-With-Python/tree/main/Day%2069/Blog">Blog Website</a>.<br>
 
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2070">Day 70</a>: Today I learn about how to Publish Our Flask Website and also Version 
-Control in Git, upgrade the Database using SQLite. After all of this I learn how to publish my website using Heroku.
+Control in Git, upgrade the Database using SQLite. After all of this I learn how to publish my website using Heroku.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2071">Day 71</a>: Today I learn about Data Exploration with Pandas by Analysing the 
+Post-University Salaries of Graduates by Major. The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2071/Data%20Exploration/Data_Exploration.ipynb">Data Exploration</a>.<br>
 
