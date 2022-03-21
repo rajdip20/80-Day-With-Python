@@ -272,3 +272,6 @@ Control in Git, upgrade the Database using SQLite. After all of this I learn how
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2071">Day 71</a>: Today I learn about Data Exploration with Pandas by Analysing the 
 Post-University Salaries of Graduates by Major. The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2071/Data%20Exploration/Data_Exploration.ipynb">Data Exploration</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2072">Day 72</a>: Today I learn more about Data Exploration with Pandas and
+analyse the Popularity of Different Programming Languages over Time. The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2072/programming%20language/Programming_Languages.ipynb">Programming Language</a>.<br>
+
