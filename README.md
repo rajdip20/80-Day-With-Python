@@ -275,3 +275,6 @@ Post-University Salaries of Graduates by Major. The analysis called <a href="htt
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2072">Day 72</a>: Today I learn more about Data Exploration with Pandas and
 analyse the Popularity of Different Programming Languages over Time. The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2072/programming%20language/Programming_Languages.ipynb">Programming Language</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2073">Day 73</a>: Today I learn to Aggregate and Merge Data in Pandas while Analysing a Dataset of LEGO Pieces.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2073/LEGO%20Notebook%20and%20Data/Lego_Analysis.ipynb">Lego Analysis</a>.<br>
+
