@@ -278,3 +278,6 @@ analyse the Popularity of Different Programming Languages over Time. The analysi
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2073">Day 73</a>: Today I learn to Aggregate and Merge Data in Pandas while Analysing a Dataset of LEGO Pieces.
 The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2073/LEGO%20Notebook%20and%20Data/Lego_Analysis.ipynb">Lego Analysis</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2074">Day 74</a>: Today I learn to Combine Google Trends with other Time Series Data.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2074/Google%20Trends%20data%20Viz/Google_Trends_and_Data_Visualisation.ipynb">Google Trends and Data Visualization</a>.<br>
+
