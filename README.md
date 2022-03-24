@@ -281,3 +281,6 @@ The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2074">Day 74</a>: Today I learn to Combine Google Trends with other Time Series Data.
 The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2074/Google%20Trends%20data%20Viz/Google_Trends_and_Data_Visualisation.ipynb">Google Trends and Data Visualization</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2075">Day 75</a>: Today I Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2075/Google%20play%20store%20analysis/Google_Play_Store_App_Analytics.ipynb">Google Play Store Analysis</a>.<br>
+
