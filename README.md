@@ -284,3 +284,6 @@ The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2075">Day 75</a>: Today I Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly.
 The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2075/Google%20play%20store%20analysis/Google_Play_Store_App_Analytics.ipynb">Google Play Store Analysis</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2076">Day 76</a>: Today I learn about NumPy.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2076/Computation%20with%20Numpy/Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb">Computational with NumPy and N Dimensional Arrays</a>.<br>
+
