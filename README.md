@@ -287,3 +287,6 @@ The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2076">Day 76</a>: Today I learn about NumPy.
 The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2076/Computation%20with%20Numpy/Computation_with_NumPy_and_N_Dimensional_Arrays.ipynb">Computational with NumPy and N Dimensional Arrays</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2077">Day 77</a>: Today I learn about linear regression and seaborn. Today I'm looking at movie budget and revenue data.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2077/Box%20Office%20Revenue/Seaborn_and_Linear_Regression.ipynb">Box Office Revenue</a>.<br>
+
