@@ -290,3 +290,12 @@ The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob
 <a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2077">Day 77</a>: Today I learn about linear regression and seaborn. Today I'm looking at movie budget and revenue data.
 The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2077/Box%20Office%20Revenue/Seaborn_and_Linear_Regression.ipynb">Box Office Revenue</a>.<br>
 
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2078">Day 78</a>: Today I analyse a dataset on the past winners of the Nobel Prize.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2078/Nobel%20Prize%20Analysis/Nobel_Prize_Analysis.ipynb">Nobel Prize Analysis</a>.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2079">Day 79</a>: Today I analyse a dataset of Hand-washing Discovery at Vienna General Hospital.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2079/Dr%20Semmelweis%20Analysis/Dr_Semmelweis_Handwashing_Discovery.ipynb">Dr. Semmelweis Handwashing Discovery</a>.<br>
+
+<a href="https://github.com/rajdip20/100-Day-With-Python/tree/main/Day%2080">Day 80</a>: Today I Analyse and explore the Boston house price data and perform Multivariable Regression.
+The analysis called <a href="https://github.com/rajdip20/80-Day-With-Python/blob/main/Day%2080/Multivariable%20Regression/Multivariable_Regression_and_Valuation_Model.ipynb">Multivariable Regression and Valuation Model</a>.<br>
+
